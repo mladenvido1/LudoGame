@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{B572720C-A493-4A49-86EA-2E83532C8B72}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ITD.OOP1.Ludo/Game.cs">
+    <Files>
+      <File FileName="ITD.OOP1.Ludo/Program.cs" Line="12" Column="10" />
+      <File FileName="ITD.OOP1.Ludo/Game.cs" Line="6" Column="21" />
+      <File FileName="ITD.OOP1.Ludo/Player.cs" Line="41" Column="27" />
+      <File FileName="ITD.OOP1.Ludo/Token.cs" Line="22" Column="32" />
+      <File FileName="ITD.OOP1.Ludo/Dice.cs" Line="26" Column="5" />
+      <File FileName="ITD.OOP1.Ludo/Board.cs" Line="1" Column="1" />
+      <File FileName="ITD.OOP1.Ludo/Field.cs" Line="21" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ITD.OOP1.Ludo PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

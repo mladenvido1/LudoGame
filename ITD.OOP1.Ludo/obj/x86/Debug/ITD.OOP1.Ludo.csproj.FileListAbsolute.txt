@@ -1,0 +1,5 @@
+/Users/rada/Library/Mobile Documents/com~apple~CloudDocs/PROJEKTER/ITD/projects/ITD.OOP1.Ludo/ITD.OOP1.Ludo/bin/Debug/ITD.OOP1.Ludo.exe
+/Users/rada/Library/Mobile Documents/com~apple~CloudDocs/PROJEKTER/ITD/projects/ITD.OOP1.Ludo/ITD.OOP1.Ludo/bin/Debug/ITD.OOP1.Ludo.pdb
+/Users/rada/Library/Mobile Documents/com~apple~CloudDocs/PROJEKTER/ITD/projects/ITD.OOP1.Ludo/ITD.OOP1.Ludo/obj/x86/Debug/ITD.OOP1.Ludo.csproj.CoreCompileInputs.cache
+/Users/rada/Library/Mobile Documents/com~apple~CloudDocs/PROJEKTER/ITD/projects/ITD.OOP1.Ludo/ITD.OOP1.Ludo/obj/x86/Debug/ITD.OOP1.Ludo.exe
+/Users/rada/Library/Mobile Documents/com~apple~CloudDocs/PROJEKTER/ITD/projects/ITD.OOP1.Ludo/ITD.OOP1.Ludo/obj/x86/Debug/ITD.OOP1.Ludo.pdb
